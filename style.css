@@ -1,0 +1,11 @@
+body {
+  background:rgb(67, 80, 80);
+  max-width: 800px;
+  margin-left:auto;
+  margin-right:auto;
+}
+h1 {
+  font-size:xxx-large;
+  color:#006161;
+  text-align: center;
+  }
