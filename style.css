@@ -12,8 +12,17 @@ h1 {
   img {
     display: block;
     float: right;
-    padding: 20px;
+    padding: 15px;
     clear: both;
-    max-height: 500px;
-    max-width: 550px;
+    height: 550%;
+    width: 550px;
   }
+  #once {
+    content: "Links";
+    display: block;
+    font-size: large;
+    color: rgb(230, 233, 46);
+    text-decoration: underline;
+    margin-top: .5em;
+  }
+ 
