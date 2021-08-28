@@ -14,8 +14,8 @@ h1 {
     float: right;
     padding: 15px;
     clear: both;
-    height: 550%;
-    width: 550px;
+    height: 350%;
+    width: 350px;
   }
   #once {
     content: "Links";
@@ -25,4 +25,9 @@ h1 {
     text-decoration: underline;
     margin-top: .5em;
   }
- 
+ h2 {
+  color:yellow;
+ }
+ li {
+   color:white;
+ }
