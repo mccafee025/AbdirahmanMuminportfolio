@@ -23,8 +23,7 @@ h1 {
     font-size: large;
     text-decoration: underline;
     margin-top: .5em;
-    color:rgb(218, 218, 33);
-  }
+}
 h2 {
   color:rgb(218, 218, 33);
   font-size: x-large;
@@ -37,4 +36,4 @@ link:visited {
   color: rgb(64, 153, 64);
   background-color: transparent;
   text-decoration: none;
- }
+}
