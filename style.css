@@ -9,3 +9,11 @@ h1 {
   color:#10b4b4;
   text-align: center;
   }
+  img {
+    display: block;
+    float: right;
+    padding: 20px;
+    clear: both;
+    max-height: 500px;
+    max-width: 550px;
+  }
